@@ -1,0 +1,6 @@
+﻿  DJohnsonMP6.cpp
+D:\Users\DZilla\source\repos\MP6\DJohnsonMP6.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+D:\Users\DZilla\source\repos\MP6\DJohnsonMP6.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+D:\Users\DZilla\source\repos\MP6\DJohnsonMP6.cpp(89,21): warning C4018: '<': signed/unsigned mismatch
+D:\Users\DZilla\source\repos\MP6\DJohnsonMP6.cpp(105,21): warning C4018: '<': signed/unsigned mismatch
+  MP6.vcxproj -> D:\Users\DZilla\source\repos\MP6\Debug\MP6.exe
